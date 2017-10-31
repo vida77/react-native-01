@@ -4,30 +4,30 @@ react-native培训（一）
 # 主要内容
 
 一，认识ReactNative <br/>
-    &nbsp;&nbsp;1.1	什么是Virtual DOM ？<br/>
-    1.2	ReactNative的实现原理<br/>
-    1.3	ReactNative架构图<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1,什么是Virtual DOM ？<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.2,ReactNative的实现原理<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.3,ReactNative架构图<br/>
 二，Windows平台下环境的配置<br/>
-    2.1,使用工具<br/>
-    2.2,安装react-native-cli<br/>
-    2.3,安装jdk1.8或以上<br/>
-    2.4,配置jdk环境变量<br/>
-    2.5,Android Studio下载安装<br/>
-    2.6,安装Genymotion（可选）<br/>
-    2.7,安装过程中遇到错误解决方案<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1,使用工具<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2,安装react-native-cli<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.3,安装jdk1.8或以上<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.4,配置jdk环境变量<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.5,Android Studio下载安装<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.6,安装Genymotion（可选）<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.7,安装过程中遇到错误解决方案<br/>
 三，初始化React-native项目<br/>
-    3.1,React-native初始化项目<br/>
-    3.2,React-native运行<br/>
-    3.3,React-native运行错误<br/>
-    3.4,React-native真机调试<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.1,React-native初始化项目<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.2,React-native运行<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.3,React-native运行错误<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.4,React-native真机调试<br/>
 四，开发工具的选择<br/>
 五，React-Native基础<br/>
-    5.1,初始React-Native组件<br/>
-    5.2,React-Native 创建组件<br/>
-    5.3,React-Native生命周期<br/>
-    5.4,导入与导出<br/>
-    5.5,React-Native的State状态<br/>
-    5.5,React-Native的ref使用<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.1,初始React-Native组件<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.2,React-Native 创建组件<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.3,React-Native生命周期<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.4,导入与导出<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.5,React-Native的State状态<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;5.5,React-Native的ref使用<br/>
 六，作业React-Native布局<br/>
 
 
