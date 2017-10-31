@@ -36,6 +36,8 @@ react-native培训之基础与入门
 
 http://www.oracle.com/technetwork/java/javase/downloads/index.html JDK下载
 
+https://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html  JDK环境变量的配置
+
 https://developer.android.google.cn/studio/index.html  Android Studio下载
 
 http://reactnative.cn/docs/0.49/getting-started.html#content Android Studio安装配置
